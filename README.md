@@ -1,13 +1,14 @@
-# I-WANNA-ROCK
+# I WANNA ROCK. ROCK!
 
-Game made for #jamtasticvol2 (http://jams.gamejolt.io/jamtasticvol2)
+Game made for [#jamtasticvol2](http://jams.gamejolt.io/jamtasticvol2)
 
-#Artist
+**Artist**
 
-Brawler Lopes (https://twitter.com/BrawlerLopes)
+[Brawler Lopes](https://twitter.com/BrawlerLopes)
 
-#Programmers
 
-Ricardo Silva (https://twitter.com/cavalsilva1)
+**Programmers**
 
-Marcos de Moraes (https://twitter.com/_niguerra)
+[Ricardo Silva](https://twitter.com/cavalsilva1)
+
+[Marcos de Moraes](https://twitter.com/_niguerra)
