@@ -1,0 +1,138 @@
+
+heroe.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Head
+  rotate: false
+  xy: 2, 102
+  size: 152, 115
+  orig: 154, 117
+  offset: 1, 1
+  index: -1
+Left_up_leg
+  rotate: true
+  xy: 849, 187
+  size: 67, 93
+  orig: 69, 95
+  offset: 1, 1
+  index: -1
+abdomen
+  rotate: false
+  xy: 306, 136
+  size: 122, 118
+  orig: 124, 120
+  offset: 1, 1
+  index: -1
+lef_down_leg
+  rotate: false
+  xy: 312, 48
+  size: 63, 86
+  orig: 65, 88
+  offset: 1, 1
+  index: -1
+left_arm
+  rotate: true
+  xy: 430, 150
+  size: 104, 122
+  orig: 106, 124
+  offset: 1, 1
+  index: -1
+left_foot
+  rotate: false
+  xy: 554, 181
+  size: 113, 73
+  orig: 115, 75
+  offset: 1, 1
+  index: -1
+left_hand
+  rotate: true
+  xy: 377, 61
+  size: 73, 65
+  orig: 75, 67
+  offset: 1, 1
+  index: -1
+left_sword
+  rotate: true
+  xy: 554, 128
+  size: 51, 101
+  orig: 53, 103
+  offset: 1, 1
+  index: -1
+left_sword copy
+  rotate: true
+  xy: 657, 134
+  size: 35, 88
+  orig: 35, 88
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 669, 171
+  size: 93, 83
+  orig: 95, 85
+  offset: 1, 1
+  index: -1
+right_arm
+  rotate: false
+  xy: 156, 2
+  size: 86, 100
+  orig: 88, 102
+  offset: 1, 1
+  index: -1
+right_down_leg
+  rotate: true
+  xy: 944, 210
+  size: 44, 78
+  orig: 46, 80
+  offset: 1, 1
+  index: -1
+right_down_leg2
+  rotate: true
+  xy: 2, 22
+  size: 78, 132
+  orig: 80, 134
+  offset: 1, 1
+  index: -1
+right_hand
+  rotate: false
+  xy: 444, 78
+  size: 70, 70
+  orig: 72, 72
+  offset: 1, 1
+  index: -1
+right_idle_lag
+  rotate: true
+  xy: 516, 80
+  size: 68, 35
+  orig: 70, 37
+  offset: 1, 1
+  index: -1
+right_sword
+  rotate: false
+  xy: 244, 15
+  size: 66, 87
+  orig: 68, 89
+  offset: 1, 1
+  index: -1
+right_up_leg
+  rotate: false
+  xy: 764, 176
+  size: 83, 78
+  orig: 85, 80
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 219
+  size: 300, 35
+  orig: 302, 37
+  offset: 1, 1
+  index: -1
+torso
+  rotate: true
+  xy: 156, 104
+  size: 113, 148
+  orig: 115, 150
+  offset: 1, 1
+  index: -1

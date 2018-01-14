@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 232904565e2ac9241b20b5aabb33d1e9
+timeCreated: 1501467306
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: I Am a Rock
+  fontNames:
+  - 4920416d206120526f636b
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

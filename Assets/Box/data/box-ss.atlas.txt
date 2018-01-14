@@ -1,0 +1,33 @@
+
+box-ss.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 10
+  rotate: false
+  xy: 266, 37
+  size: 139, 40
+  orig: 139, 40
+  offset: 0, 0
+  index: -1
+Group 10 copy 2
+  rotate: false
+  xy: 266, 2
+  size: 139, 33
+  orig: 139, 33
+  offset: 0, 0
+  index: -1
+Group 11
+  rotate: true
+  xy: 2, 2
+  size: 75, 130
+  orig: 75, 130
+  offset: 0, 0
+  index: -1
+Group 11 copy
+  rotate: true
+  xy: 134, 5
+  size: 72, 130
+  orig: 72, 130
+  offset: 0, 0
+  index: -1
